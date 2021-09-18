@@ -11,5 +11,5 @@ This work is licensed under a
 
 
 
-# PrescriptiveStudyMethod
-A method that can simplfy the study process and permit to increase the efficiency
+# Prescriptive Study Method
+A method to simplify the study process in way to increase the efficiency 
