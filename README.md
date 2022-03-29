@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # AlternativePrescriptiveStudyMethod
-A Prescriptive Study Method focussed on the exercise
+A Prescriptive Study Method focussed on the exercise.
 =======
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -16,5 +16,4 @@ This work is licensed under a
 
 
 # Prescriptive Study Method
-A method to simplify the study process in way to increase the efficiency 
->>>>>>> dc11d30427ff5fa5b40e710948919ab14fbb85d3
+A method to simplify the study process in way to increase the efficiency.
