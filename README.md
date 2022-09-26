@@ -1,5 +1,5 @@
 
-# AlternativePrescriptiveStudyMethod
+# Alternative prescriptive study method
 A Prescriptive Study Method focussed on the exercise.
 =======
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
