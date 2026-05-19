@@ -5,6 +5,7 @@ A Prescriptive Study Method focussed on the exercise.
 
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 [![Compilation_Test](https://github.com/R0mb0/Alternative-prescriptive-study-method/actions/workflows/Compilation_Test.yml/badge.svg)](https://github.com/R0mb0/Alternative-prescriptive-study-method/actions/workflows/Compilation_Test.yml)
+[![pages-build-deployment](https://github.com/R0mb0/Alternative-prescriptive-study-method/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/R0mb0/Alternative-prescriptive-study-method/actions/workflows/pages/pages-build-deployment)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/fc9042393f6a4d3f95101d5332e85d32)](https://app.codacy.com/gh/R0mb0/Alternative-prescriptive-study-method/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/R0mb0/Alternative-prescriptive-study-method)
